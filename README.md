@@ -1,4 +1,4 @@
-# 🌾 Crop Kisan Sahayyak - Smart Agriculture Platform
+# 🌾 Krishi Setu - Smart Agriculture Platform
 
 A comprehensive digital platform that empowers farmers with intelligent crop advisory, marketplace access, and data-driven agricultural insights.
 
